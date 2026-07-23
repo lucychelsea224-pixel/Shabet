@@ -1,0 +1,16 @@
+{
+  "name": "Shabet — Agent & Admin",
+  "short_name": "Shabet",
+  "description": "Retail betting ticket booking and league admin for Shabet",
+  "theme_color": "#0F5132",
+  "background_color": "#0B3D26",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "scope": "./",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
