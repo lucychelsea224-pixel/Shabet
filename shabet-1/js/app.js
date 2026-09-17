@@ -245,7 +245,7 @@ function renderLanding() {
 
         <p class="login-foot">
           New here? Create your own account to build and submit tickets yourself.
-          Already have staff (agent/admin) credentials? Use Sign In.
+          Already have a credentials? Use Sign In.
         </p>
       </div>
       ${footerHtml()}
